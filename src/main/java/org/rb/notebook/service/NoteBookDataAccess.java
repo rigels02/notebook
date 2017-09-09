@@ -5,7 +5,6 @@ import org.rb.notebook.io.v3.IRWFile;
 import org.rb.notebook.model.Header;
 import org.rb.notebook.model.NotesBook;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
 
 /**
